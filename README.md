@@ -2,10 +2,10 @@
 
 I will demonstrate 4 web design patterns using Bootstrap 3:
 
-1. The Mostly Fluid Pattern
-2. The Column Drop Pattern
-3. The Layout Shifter Pattern
-4. Same Sized Columns
+1. The Mostly Fluid Pattern - http://aurimas.darguzis.com/projects/Mostly-Fluid-Pattern/ 
+2. The Column Drop Pattern - http://aurimas.darguzis.com/projects/Column-Drop-Pattern/
+3. The Layout Shifter Pattern - http://aurimas.darguzis.com/projects/Layout-Shifter-Pattern/
+4. Same Sized Columns - http://aurimas.darguzis.com/projects/Same-Sized-Columns/
  
 
 The Mostly Fluid Pattern - http://aurimas.darguzis.com/projects/Mostly-Fluid-Pattern/ 
