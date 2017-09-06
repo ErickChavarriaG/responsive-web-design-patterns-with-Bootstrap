@@ -1,6 +1,6 @@
 # responsive-web-design-patterns-with-Bootstrap
 
-I will demonstrate 4 web design patterns using Bootstrap 3:
+4 web design patterns using Bootstrap 3:
 
 1. The Mostly Fluid Pattern - http://aurimas.darguzis.com/projects/Mostly-Fluid-Pattern/ 
 2. The Column Drop Pattern - http://aurimas.darguzis.com/projects/Column-Drop-Pattern/
